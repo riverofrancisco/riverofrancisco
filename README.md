@@ -6,7 +6,7 @@ Soy un _**Programador FullStack**_ orientado al diseño Front-end.
 
 ## ¿A dónde me dirijo?
 
-Me gusta solucionar problemas, y encontré en la programación un espacio con desafíos de crecimiento desarrollo tecnológico, que quiero utilizar para mejorar la calidad de vida de las personas. Mi objetivo es poder desarrollar soluciones que agilicen y optimicen procesos y tiempo para los usuarios en general.
+Me gusta solucionar problemas, y encontré en la programación un espacio con desafíos de crecimiento y desarrollo tecnológico, que quiero utilizar para mejorar la calidad de vida de las personas. Mi objetivo es poder desarrollar soluciones que agilicen y optimicen procesos y tiempo para los usuarios en general.
 
 ## ¿Qué tecnologías uso?
 
