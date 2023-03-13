@@ -11,17 +11,17 @@ Me gusta solucionar problemas, y encontré en la programación un espacio con de
 ## ¿Qué tecnologías uso?
 
 He trabajado con las siguientes tecnologías:
-**- Javascript**
-**- Typescript**
-**- React**
-**- Redux**
-**- Material UI**
-**- CSS**
-**- HTML**
-**- Node.js**
-**- Express**
-**- PosgreSQL**
-**- GIT**
+- **Javascript**
+- **Typescript**
+- **React**
+- **Redux**
+- **Material UI**
+- **CSS**
+- **HTML**
+- **Node.js**
+- **Express**
+- **PosgreSQL**
+- **GIT**
 
 Entre otras herramientas también tengo conocimiento de **Adobe Premiere Pro** para edición de video y generación de material.
 
