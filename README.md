@@ -1,7 +1,6 @@
 # Hi! My name is Francisco // Hola! Mi nombre es Francisco
 
 ## Who am I? // ¿Quién Soy?
-
 I'm a _**Full Stack Web Developer**_ specialized on Front-End development.
 ---------------------------------------------------------------------------
 Soy un _**Programador FullStack**_ especializado en desarrollo Front-end.
