@@ -25,7 +25,7 @@ El proyecto final del Bootcamp Henry también me ayudó a consolidar mi trabajo 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **React** 
 -  <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Icon" width="20"> **Redux**
 -  <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" alt="Icon" width="20"> **Material UI**
--  <img src="https://w7.pngwing.com/pngs/277/62/png-transparent-python-javascript-clojure-programming-language-programming-miscellaneous-angle-text-thumbnail.png" alt="Icon" width="20"> **Python**
+-  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="Icon" width="20"> **Python**
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="Icon" width="20"> **CSS**
 -  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Icon" width="20"> **HTML**
 - <img src="https://camo.githubusercontent.com/ad23f218338fb332b15bf837b6f458654b86254955cf9b505498de75b0f1a8ac/68747470733a2f2f6d6964752e6465762f696d616765732f746167732f6e6f64652e706e67" alt="Icon" width="20"> **Node.js**
