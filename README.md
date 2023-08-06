@@ -40,6 +40,7 @@ ________________________________________________________________________________
 Entre otras herramientas también manejo **Adobe Premiere Pro** para edición de video y generación de material.
 
 ______________________________________________________________________________________________________
+______________________________________________________________________________________________________
 If you are interested in my profile, contact me! // Si te interesa mi perfil, no dudes en contactarme!
 
 ✉ franciscojose.rivero.ar@gmail.com
