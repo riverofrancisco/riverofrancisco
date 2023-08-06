@@ -23,7 +23,7 @@ El proyecto final del Bootcamp Henry también me ayudó a consolidar mi trabajo 
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Icon" width="20"> **Javascript**
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Icon" width="20"> **Typescript**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **React** 
--  <img src="https://e7.pngegg.com/pngimages/522/1018/png-clipart-purple-atom-redux-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="Icon" width="20"> **Redux**
+-  <img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="Icon" width="20"> **Redux**
 -  <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" alt="Icon" width="20"> **Material UI**
 -  <img src="https://w7.pngwing.com/pngs/277/62/png-transparent-python-javascript-clojure-programming-language-programming-miscellaneous-angle-text-thumbnail.png" alt="Icon" width="20"> **Python**
 -  <img src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png" alt="Icon" width="20"> **CSS**
