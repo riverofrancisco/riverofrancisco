@@ -13,7 +13,7 @@ Desde siempre tuve interés en solucionar problemas y buscar la mayor eficiencia
 He trabajado con las siguientes tecnologías:
 - **Javascript**
 - **Typescript**
-- ![**React**](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)
+- **React** <img src="[https://example.com/icon.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)" alt="Icon" width="30">
 - **Redux**
 - **Material UI**
 - **CSS**
