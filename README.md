@@ -3,7 +3,7 @@
 ## Who am I? // ¿Quién Soy?
 I'm a _**Full Stack Web Developer**_ specialized on Front-End development.
 
---
+______________________________________________________________________________________________________
 
 Soy un _**Programador FullStack**_ especializado en desarrollo Front-end.
 
@@ -12,7 +12,7 @@ My experience of more than 5 years in teaching has given me the soft skills of p
 
 The final project of the Bootcamp Henry also helped me to consolidate my teamwork, applying the agile SCRUM methodology and being able to develop an application with 7 other colleagues with whom I had not previously worked.
 
---
+______________________________________________________________________________________________________
 
 Mi experiencia de más de 5 años en la docencia, me ha brindado las habilidades blandas de planificación, empatía, comunicación y claridad al hablar y expresarme en público. Mientras que también lideré de forma voluntaria un grupo de exploradores de más de 200 miembros, lo cual me permitió aprender a ser proactivo, trabajar orientado a objetivos, practicar y aprender a trabajar en equipo y liderar.
 
@@ -35,7 +35,7 @@ El proyecto final del Bootcamp Henry también me ayudó a consolidar mi trabajo 
 
 Among other technologies, I also handle **Adobe Premiere Pro** for video editing.
 
---
+______________________________________________________________________________________________________
 
 Entre otras herramientas también manejo **Adobe Premiere Pro** para edición de video y generación de material.
 
