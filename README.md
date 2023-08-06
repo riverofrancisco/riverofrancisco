@@ -33,11 +33,11 @@ El proyecto final del Bootcamp Henry también me ayudó a consolidar mi trabajo 
 -  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" alt="Icon" width="20"> **PosgreSQL**
 -  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Icon" width="20"> **GIT**
 
-Among other technologies, I also use **Adobe Premiere Pro** for video editing.
+Among other technologies, I also handle **Adobe Premiere Pro** for video editing.
 
 --
 
-Entre otras herramientas también tengo conocimiento de **Adobe Premiere Pro** para edición de video y generación de material.
+Entre otras herramientas también manejo **Adobe Premiere Pro** para edición de video y generación de material.
 
 ### If you are interested in my profile, contact me! // Si te interesa mi perfil, no dudes en contactarme!
 
