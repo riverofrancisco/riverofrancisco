@@ -2,6 +2,7 @@
 
 ## Who am I? // ¿Quién Soy?
 I'm a _**Full Stack Web Developer**_ specialized on Front-End development.
+
 Soy un _**Programador FullStack**_ especializado en desarrollo Front-end.
 
 ## What is my background? // ¿Cual es mi experiencia?
@@ -12,10 +13,8 @@ The final project of the Bootcamp Henry also helped me to consolidate my teamwor
 
 ## What are my Tech Skills? // ¿Qué tecnologías uso?
 
--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> 
- **Javascript**
--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> 
- **Typescript**
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **Javascript**
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **Typescript**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **React** 
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> 
  **Redux**
