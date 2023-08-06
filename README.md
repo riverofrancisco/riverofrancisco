@@ -20,20 +20,22 @@ El proyecto final del Bootcamp Henry también me ayudó a consolidar mi trabajo 
 
 ## What are my Tech Skills? // ¿Qué tecnologías uso?
 
--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **Javascript**
--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **Typescript**
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Icon" width="20"> **Javascript**
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Icon" width="20"> **Typescript**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **React** 
--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **Redux**
--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **Material UI**
--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **Python**
--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **CSS**
--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **HTML**
+-  <img src="https://e7.pngegg.com/pngimages/522/1018/png-clipart-purple-atom-redux-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="Icon" width="20"> **Redux**
+-  <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" alt="Icon" width="20"> **Material UI**
+-  <img src="https://w7.pngwing.com/pngs/277/62/png-transparent-python-javascript-clojure-programming-language-programming-miscellaneous-angle-text-thumbnail.png" alt="Icon" width="20"> **Python**
+-  <img src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png" alt="Icon" width="20"> **CSS**
+-  <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" alt="Icon" width="20"> **HTML**
 - <img src="https://camo.githubusercontent.com/ad23f218338fb332b15bf837b6f458654b86254955cf9b505498de75b0f1a8ac/68747470733a2f2f6d6964752e6465762f696d616765732f746167732f6e6f64652e706e67" alt="Icon" width="20"> **Node.js**
--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **Express**
--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **PosgreSQL**
--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **GIT**
+-  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Icon" width="20"> **Express**
+-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" alt="Icon" width="20"> **PosgreSQL**
+-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Icon" width="20"> **GIT**
 
 Among other technologies, I also use **Adobe Premiere Pro** for video editing.
+
+--
 
 Entre otras herramientas también tengo conocimiento de **Adobe Premiere Pro** para edición de video y generación de material.
 
