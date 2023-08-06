@@ -2,11 +2,12 @@
 
 ## Who am I? // ¿Quién Soy?
 I'm a _**Full Stack Web Developer**_ specialized on Front-End development.
----------------------------------------------------------------------------
 Soy un _**Programador FullStack**_ especializado en desarrollo Front-end.
 
 ## What is my background? // ¿Cual es mi experiencia?
+My experience of more than 5 years in teaching has given me the soft skills of planning, empathy, communication and clarity when speaking in public. While I also voluntarily led a group of scouts of more than 200 members, which allowed me to learn to be proactive, work for objectives, practice and learn teamwork and leadership.
 
+The final project of the Bootcamp Henry also helped me to consolidate my teamwork, applying the agile SCRUM methodology and being able to develop an application with 7 other colleagues with whom I had not previously worked.
 
 
 ## What are my Tech Skills? // ¿Qué tecnologías uso?
