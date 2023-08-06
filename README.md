@@ -35,8 +35,11 @@ El proyecto final del Bootcamp Henry también me ayudó a consolidar mi trabajo 
 
 Among other technologies, I also handle **Adobe Premiere Pro** for video editing.
 
+--
+
 Entre otras herramientas también manejo **Adobe Premiere Pro** para edición de video y generación de material.
 
+______________________________________________________________________________________________________
 If you are interested in my profile, contact me! // Si te interesa mi perfil, no dudes en contactarme!
 
 ✉ franciscojose.rivero.ar@gmail.com
