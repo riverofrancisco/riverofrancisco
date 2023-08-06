@@ -1,27 +1,35 @@
-# Hola! Mi nombre es Francisco
+# Hi! My name is Francisco // Hola! Mi nombre es Francisco
 
-## ¿Quién Soy?
+## Who am I? // ¿Quién Soy?
 
-Soy un _**Programador FullStack**_ orientado al desarrollo Front-end.
+I'm a _**Full Stack Web Developer**_ specialized on Front-End development.
+---------------------------------------------------------------------------
+Soy un _**Programador FullStack**_ especializado en desarrollo Front-end.
 
-## ¿A dónde me dirijo?
+## What is my background? // ¿Cual es mi experiencia?
 
-Desde siempre tuve interés en solucionar problemas y buscar la mayor eficiencia en las tareas cotidianas. Encontré en la programación un espacio con desafíos de crecimiento y desarrollo tecnológico, que quiero utilizar para mejorar la calidad de vida de las personas, desarrollando soluciones que agilicen y optimicen procesos y tiempo para los usuarios en general.
 
-## ¿Qué tecnologías uso?
 
-He trabajado con las siguientes tecnologías:
-- **Javascript**
-- **Typescript**
+## What are my Tech Skills? // ¿Qué tecnologías uso?
+
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> 
+ **Javascript**
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> 
+ **Typescript**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **React** 
-- **Redux**
-- **Material UI**
-- **CSS**
-- **HTML**
-- **Node.js**
-- **Express**
-- **PosgreSQL**
-- **GIT**
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> 
+ **Redux**
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> 
+ **Material UI**
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **Python**
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20">  **CSS**
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> 
+ **HTML**
+- <img src="https://camo.githubusercontent.com/ad23f218338fb332b15bf837b6f458654b86254955cf9b505498de75b0f1a8ac/68747470733a2f2f6d6964752e6465762f696d616765732f746167732f6e6f64652e706e67" alt="Icon" width="20"> **Node.js**
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> 
+ **Express**
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20">  **PosgreSQL**
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20">  **GIT**
 
 Entre otras herramientas también tengo conocimiento de **Adobe Premiere Pro** para edición de video y generación de material.
 
