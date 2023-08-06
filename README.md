@@ -2,7 +2,7 @@
 
 ## ¿Quién Soy?
 
-Soy un _**Programador FullStack**_ orientado al diseño Front-end.
+Soy un _**Programador FullStack**_ orientado al desarrollo Front-end.
 
 ## ¿A dónde me dirijo?
 
