@@ -1,24 +1,12 @@
-# Hi! My name is Francisco // Hola! Mi nombre es Francisco
-
-## Who am I? // ¿Quién Soy?
+# Hi! My name is Francisco 
 I'm a _**Full Stack Web Developer**_ specialized on Front-End development.
 
-______________________________________________________________________________________________________
+## What is my background?
+During my participation in the Henry Bootcamp, I had the opportunity to apply the Agile methodology of SCRUM in project development. I worked closely with seven other team members with whom I had not previously collaborated, and together, we successfully developed an e-commerce application.
 
-Soy un _**Programador FullStack**_ especializado en desarrollo Front-end.
+I am passionate about problem-solving and efficiency in daily tasks. Over more than 5 years of experience as an educator, I have acquired soft skills such as planning, empathy, communication, and the ability to express myself clearly in public. Additionally, I voluntarily led a group of explorers consisting of over 200 members, teaching me to be proactive, work as a team, focus on goals, and lead projects.
 
-## What is my background? // ¿Cual es mi experiencia?
-My experience of more than 5 years in teaching has given me the soft skills of planning, empathy, communication and clarity when speaking in public. While I also voluntarily led a group of scouts of more than 200 members, which allowed me to learn to be proactive, work for objectives, practice and learn teamwork and leadership.
-
-The final project of the Bootcamp Henry also helped me to consolidate my teamwork, applying the agile SCRUM methodology and being able to develop an application with 7 other colleagues with whom I had not previously worked.
-
-______________________________________________________________________________________________________
-
-Mi experiencia de más de 5 años en la docencia, me ha brindado las habilidades blandas de planificación, empatía, comunicación y claridad al hablar y expresarme en público. Mientras que también lideré de forma voluntaria un grupo de exploradores de más de 200 miembros, lo cual me permitió aprender a ser proactivo, trabajar orientado a objetivos, practicar y aprender a trabajar en equipo y liderar.
-
-El proyecto final del Bootcamp Henry también me ayudó a consolidar mi trabajo en equipo, aplicando en él la metodología ágil de SCRUM y pudiendo desarrollar una aplicación con otros 7 compañeros con los que no había trabajado previamente.
-
-## What are my Tech Skills? // ¿Qué tecnologías uso?
+## What are my Tech Skills?
 
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Icon" width="20"> **Javascript**
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Icon" width="20"> **Typescript**
@@ -34,16 +22,8 @@ El proyecto final del Bootcamp Henry también me ayudó a consolidar mi trabajo 
 -  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Icon" width="20"> **GIT**
 
 Among other technologies, I also handle **Adobe Premiere Pro** for video editing.
-
 ______________________________________________________________________________________________________
-
-Entre otras herramientas también manejo **Adobe Premiere Pro** para edición de video y generación de material.
-
-______________________________________________________________________________________________________
-______________________________________________________________________________________________________
-If you are interested in my profile, contact me! // Si te interesa mi perfil, no dudes en contactarme!
-
-✉ franciscojose.rivero.ar@gmail.com
+If you are interested in my profile, contact me! ✉ franciscojose.rivero.ar@gmail.com
 
 
 <!--
