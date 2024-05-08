@@ -10,15 +10,16 @@ I am passionate about problem-solving and efficiency in daily tasks. Over more t
 
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Icon" width="20"> **Javascript**
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Icon" width="20"> **Typescript**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **React** 
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Icon" width="20"> **React** 
 -  <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Icon" width="20"> **Redux**
+-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-fri.appspot.com/o/images%2FNODE.png?alt=media&token=3256b464-2a7b-4a36-bba1-70b40af0c4ac" alt="Icon" width="20"> **Node.js**
+-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-fri.appspot.com/o/images%2FExpress.png?alt=media&token=ffd7d63b-ac68-4f97-a699-6324c38e56c6" alt="Icon" width="20"> **Express**
 -  <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" alt="Icon" width="20"> **Material UI**
 -  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="Icon" width="20"> **Python**
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="Icon" width="20"> **CSS**
 -  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Icon" width="20"> **HTML**
-- <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-fri.appspot.com/o/images%2FNODE.png?alt=media&token=3256b464-2a7b-4a36-bba1-70b40af0c4ac" alt="Icon" width="20"> **Node.js**
--  <img src="https://camo.githubusercontent.com/f1f8876d2ac3275f78669101a03a6a82d72bbe6fbc5a5dc09b4b6110f6ce66b1/68747470733a2f2f6164776172652d746563686e6f6c6f676965732e73332e616d617a6f6e6177732e636f6d2f75706c6f6164732f746563686e6f6c6f67792f7468756d626e61696c2f32302f657870726573732d6a732e706e67" alt="Icon" width="20"> **Express**
 -  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" alt="Icon" width="20"> **PosgreSQL**
+-  <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Icon" width="20"> **Firebase**
 -  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Icon" width="20"> **GIT**
 
 Among other technologies, I also handle **Adobe Premiere Pro** for video editing.
