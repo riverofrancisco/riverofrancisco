@@ -22,7 +22,8 @@ I am passionate about problem-solving and efficiency in daily tasks. Over more t
 -  <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Icon" width="20"> **Firebase**
 -  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Icon" width="20"> **GIT**
 
-Among other technologies, I also handle <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Icon" width="15"> **Adobe Premiere Pro**  for video editing.
+Among other technologies, I also handle  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Icon" width="15"> 
+ **Adobe Premiere Pro**  for video editing.
 ______________________________________________________________________________________________________
 If you are interested in my profile, contact me! ✉ franciscojose.rivero.ar@gmail.com
 
