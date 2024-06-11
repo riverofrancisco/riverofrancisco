@@ -18,7 +18,7 @@ I am passionate about problem-solving and efficiency in daily tasks. Over more t
 -  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="Icon" width="20"> **Python**
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="Icon" width="20"> **CSS**
 -  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Icon" width="20"> **HTML**
--  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" alt="Icon" width="20"> **PosgreSQL**
+-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" alt="Icon" width="20"> **PostgreSQL**
 -  <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Icon" width="20"> **Firebase**
 -  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Icon" width="20"> **GIT**
 
