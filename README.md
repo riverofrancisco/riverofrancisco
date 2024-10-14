@@ -1,5 +1,5 @@
 # Hi! My name is Francisco 
-I'm a _**Full Stack Web Developer**_ specialized on Front-End development.
+I'm a _**Full Stack Web Developer**_
 
 ## What is my background?
 I work with technologies such as JavaScript, TypeScript, Node, and Git. I specialize in Front-End development using the React.js and Redux frameworks, as well as CSS and HTML. For Back-End, I have experience with Express.js. For databases, I have worked with PostgreSQL, MySQL, MongoDB and Firebase .
