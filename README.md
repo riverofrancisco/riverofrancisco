@@ -2,7 +2,7 @@
 I'm a _**Full Stack Web Developer**_
 
 ## What is my background?
-I work with technologies such as JavaScript, TypeScript, Node, and Git. I specialize in Front-End development using the React.js and Redux frameworks, as well as CSS and HTML. For Back-End, I have experience with Express.js. For databases, I have worked with PostgreSQL, MySQL, MongoDB and Firebase .
+I work with technologies such as JavaScript, TypeScript, Node, and Git. I specialize in Front-End development using the React.js and Redux frameworks, as well as CSS and HTML. For Back-End, I have experience with Express.js. For databases, I have worked with PostgreSQL, MySQL, MongoDB.
 
 During my participation in the Henry Bootcamp, I had the opportunity to apply the Agile methodology of SCRUM in project development. I worked closely with seven other team members with whom I had not previously collaborated, and together, we successfully developed an e-commerce application.
 
