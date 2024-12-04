@@ -1,6 +1,6 @@
 # Hi, I'm Francisco Rivero
 
-👨‍💻 _Full Stack Web Developer passionate about building efficient and scalable solutions._
+👨‍💻 _Full Stack Web Developer passionate about combining technology, innovation, and sustainability to create meaningful solutions._
 
 ---
 
