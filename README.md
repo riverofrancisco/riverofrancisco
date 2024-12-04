@@ -1,11 +1,11 @@
 # Hi, I'm Francisco Rivero
 
-🎯 _Full Stack Web Developer passionate about building efficient and scalable solutions._
+👨‍💻 _Full Stack Web Developer passionate about building efficient and scalable solutions._
 
 ---
 
 ### 🌟 **About Me**
-- 🏙 Based in **Barcelona, Spain**  
+- 🏙 Based in **Barcelona, Spain**
 - 📚 Currently studying **Energy Engineering** at UPC  
 - 🤝 Strong **communication** and **leadership** skills, honed through 5+ years as an educator  
 - 🌍 Interested in sustainability, innovation, and digital transformation  
@@ -28,14 +28,6 @@
 - **Freelance Developer** | (2023 – Present)  
    Designed and developed custom web solutions for various clients.  
 - **Henry Bootcamp Graduate** | Built a full-stack e-commerce application with SCRUM methodology.  
-
----
-
-### 📬 Let's Connect!
-- ✉ Email: franciscojose.rivero.ar@gmail.com  
-- 🌐 [Portfolio](http://frivero.com.ar) | [LinkedIn](https://linkedin.com/in/rivero-francisco)
-- 🛒 **Henry Bootcamp Graduate**  
-   Developed a full-stack e-commerce app with a team of 7 under SCRUM methodology.
 
 ---
 
