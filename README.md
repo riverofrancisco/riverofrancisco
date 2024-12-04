@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Francisco Rivero
+# Hi, I'm Francisco Rivero
 
 🎯 _Full Stack Web Developer passionate about building efficient and scalable solutions._
 
