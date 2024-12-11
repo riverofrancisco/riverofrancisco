@@ -7,7 +7,7 @@
 ### 🌟 **About Me**
 - 🏙 Based in **Barcelona, Spain**
 - 📚 Currently studying **Energy Engineering** at UPC  
-- 🤝 Strong **communication** and **leadership** skills, honed through 5+ years as an educator  
+- 🤝 Strong **communication** and **leadership** skills, honed through 6+ years as an educator  
 - 🌍 Interested in sustainability, innovation, and digital transformation  
 
 ---
