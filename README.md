@@ -16,9 +16,9 @@
 | **Category**       | **Technologies**                              |
 |---------------------|-----------------------------------------------|
 | **Languages**       | JavaScript, TypeScript, Python               |
-| **Front-End**       | React.js, Redux, Astro, CSS, HTML            |
-| **Back-End**        | Node.js, Express.js, SQL (PostgreSQL, MySQL) |
-| **Tools**           | Docker, Git, Firebase, Jest                 |
+| **Front-End**       | React.js, Redux, Astro, CSS, HTML, Tailwind, Material UI            |
+| **Back-End**        | Node.js, Express.js, SQL (PostgreSQL, MySQL), MongoDB |
+| **Tools**           | Docker, Git, Firebase, Supabase, Jest                 |
 
 ---
 
