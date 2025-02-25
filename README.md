@@ -5,17 +5,17 @@
 ---
 
 ### 🌟 **About Me**
-- 🏙 Based in **Barcelona, Spain**
+- 🏙 Based in **Barcelona, Spain** 
 - 📚 Currently studying **Energy Engineering** at UPC  
 - 🤝 Strong **communication** and **leadership** skills, honed through 6+ years as an educator  
 - 🌍 Interested in sustainability, innovation, and digital transformation  
-
+  
 ---
 
 ### 💻 **My Tech Stack**  
 | **Category**       | **Technologies**                              |
 |---------------------|-----------------------------------------------|
-| **Languages**       | JavaScript, TypeScript, Python, Java               |
+| **Languages**       | JavaScript , TypeScript, Python, Java               |
 | **Front-End**       | React.js, Redux, Astro, Next.js, CSS, HTML, Tailwind, Material UI            |
 | **Back-End**        | Node.js, Express.js, SpringBoot, SQL (PostgreSQL, MySQL), MongoDB |
 | **Tools**           | Docker, Git, Firebase, Supabase, Jest                 |
