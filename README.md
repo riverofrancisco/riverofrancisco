@@ -32,6 +32,6 @@
 ---
 
 ## 📬 **Get in touch**  
-- ✉ Email: franciscojose.rivero.ar@gmail.com  
+- ✉ Email: info@frivero.com.ar  
 - 🌐 [Portfolio](http://frivero.com.ar)
 - 🔗 [LinkedIn](https://linkedin.com/in/rivero-francisco)
