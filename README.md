@@ -24,7 +24,7 @@
 
 ### 🏆 **Experience Highlights**
 - **Node.js Mentor** | IT Academy - Barcelona Activa (may - dec 2024)  
-   Taught advanced back-end topics like Node.js, TypeScript, and relational databases.  
+   Taught advanced back-end topics as Node.js, TypeScript, and relational databases.  
 - **Freelance Developer** | (2023 – Present)  
    Designed and developed custom web solutions for various clients.  
 - **Henry Bootcamp Graduate** | Built a full-stack e-commerce application with SCRUM methodology.  
